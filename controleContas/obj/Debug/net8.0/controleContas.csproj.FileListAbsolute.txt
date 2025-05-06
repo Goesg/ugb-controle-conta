@@ -1,0 +1,15 @@
+/workspaces/ugb-controle-conta/controleContas/obj/Debug/net8.0/controleContas.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/ugb-controle-conta/controleContas/obj/Debug/net8.0/controleContas.AssemblyInfoInputs.cache
+/workspaces/ugb-controle-conta/controleContas/obj/Debug/net8.0/controleContas.AssemblyInfo.cs
+/workspaces/ugb-controle-conta/controleContas/obj/Debug/net8.0/controleContas.csproj.CoreCompileInputs.cache
+/workspaces/ugb-controle-conta/controleContas/obj/Debug/net8.0/controleContas.sourcelink.json
+/workspaces/ugb-controle-conta/controleContas/bin/Debug/net8.0/controleContas
+/workspaces/ugb-controle-conta/controleContas/bin/Debug/net8.0/controleContas.deps.json
+/workspaces/ugb-controle-conta/controleContas/bin/Debug/net8.0/controleContas.runtimeconfig.json
+/workspaces/ugb-controle-conta/controleContas/bin/Debug/net8.0/controleContas.dll
+/workspaces/ugb-controle-conta/controleContas/bin/Debug/net8.0/controleContas.pdb
+/workspaces/ugb-controle-conta/controleContas/obj/Debug/net8.0/controleContas.dll
+/workspaces/ugb-controle-conta/controleContas/obj/Debug/net8.0/refint/controleContas.dll
+/workspaces/ugb-controle-conta/controleContas/obj/Debug/net8.0/controleContas.pdb
+/workspaces/ugb-controle-conta/controleContas/obj/Debug/net8.0/controleContas.genruntimeconfig.cache
+/workspaces/ugb-controle-conta/controleContas/obj/Debug/net8.0/ref/controleContas.dll
